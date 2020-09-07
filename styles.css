@@ -1,0 +1,15 @@
+body {
+ color: #555;
+ margin: 1px;
+ font-family: 'Montserrat', sans-serif;
+}
+
+#header {
+  background-color: #1abc9c;
+  height: 150px;
+  line-height: 150px;
+}
+#footer {
+  background-color: #2f2f2f;
+  padding: 50px 0;
+}
